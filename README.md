@@ -1,4 +1,4 @@
-# 🧠 AI-Based Automotive Test Procedure Generator
+# 🧠 AI-Powered Feature Test Procedure Generator
 
 ## 📘 Problem Statement
 
@@ -78,8 +78,8 @@ RAG ensures that the model:
 
 ### **1️⃣ Environment Setup**
 ```bash
-git clone https://github.com/<your-username>/TestProcedureGenerator.git
-cd TestProcedureGenerator
+git clone https://github.com/Kanishk-Mishra/AI-Test-Case-Generator.git
+cd AI-Test-Case-Generator
 python -m venv venv
 venv\Scripts\activate  # (Windows)
 # or
