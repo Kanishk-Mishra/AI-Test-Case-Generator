@@ -139,7 +139,7 @@ python main.py   --index_dir ./requirements_docs   --query_doc ./PlugNCharge_req
 ## 🧑‍💻 Author & Credits
 
 Developed by **Kanishk Mishra**  
-AI Intern at **RNTBCI (Renault Nissan Technology & Business Centre India)**  
+*Former* AI Intern at **RNTBCI (Renault Nissan Technology & Business Centre India)**  
 Focus: *AI for Automotive Test Automation & Validation*
 
 ---
