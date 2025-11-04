@@ -1,0 +1,10 @@
+torch
+faiss-cpu
+sentence-transformers
+pandas
+requests
+openpyxl
+python-docx
+PyPDF2
+json5
+tqdm
